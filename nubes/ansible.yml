@@ -1,0 +1,14 @@
+# Get the OS type
+# Ansible block
+- name: Get the OS type
+  shell: "uname -s"
+  register: os_type
+- name: Get the OS version
+  shell: "uname -r"
+  register: os_version
+- name: Get the OS release
+  shell: "uname -v"
+  register: os_release
+- name: Get the OS machine
+  shell: "uname -m"
+  register: os_machine
