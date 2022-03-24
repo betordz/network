@@ -53,9 +53,21 @@ Este documento describe el estado de la red en la empresa x.
 | * | * | * |
 | * | * | * |
 
-# Contacto
+### Rack 4
+
+| Nodo 1 | Nodo 2 | Nodo 3 |
+| ------ | ------ | ------ |
+| * | * | * |
+| * | * | * |
+| * | * | * |
+| * | * | * |
+| * | * | * |
+
+# Contactos
 ### Nombre: x
+### Correo: y
 
 ### Nombre: x
+### Correo: y
 
 
