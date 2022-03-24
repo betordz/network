@@ -1,1 +1,1 @@
-# Información de la aplicación 1
+# Información de la aplicaciónes
